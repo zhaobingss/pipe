@@ -8,7 +8,7 @@
     "ShowSQL": false,
     "SessionSecret": "",
     "SessionMaxAge": 86400,
-    "SQLite": "${home}/pipe.db",
+    "SQLite": "pipe.db",
     "MySQL": "user:password@(localhost:3306)/pipe?charset=utf8mb4&parseTime=True&loc=Local",
     "StaticRoot": "",
     "Port": "5897",

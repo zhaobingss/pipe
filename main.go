@@ -29,15 +29,15 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/b3log/pipe/controller"
-	"github.com/b3log/pipe/cron"
-	"github.com/b3log/pipe/i18n"
-	"github.com/b3log/pipe/log"
-	"github.com/b3log/pipe/model"
-	"github.com/b3log/pipe/service"
-	"github.com/b3log/pipe/theme"
-	"github.com/b3log/pipe/util"
 	"github.com/gin-gonic/gin"
+	"pipe/controller"
+	"pipe/cron"
+	"pipe/i18n"
+	"pipe/log"
+	"pipe/model"
+	"pipe/service"
+	"pipe/theme"
+	"pipe/util"
 )
 
 // Logger

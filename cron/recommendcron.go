@@ -19,9 +19,9 @@ package cron
 import (
 	"time"
 
-	"github.com/b3log/pipe/model"
-	"github.com/b3log/pipe/service"
-	"github.com/b3log/pipe/util"
+	"pipe/model"
+	"pipe/service"
+	"pipe/util"
 	"github.com/dustin/go-humanize"
 )
 

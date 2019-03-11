@@ -19,7 +19,7 @@ package controller
 import (
 	"net/http"
 
-	"github.com/b3log/pipe/util"
+	"pipe/util"
 	"github.com/gin-contrib/sessions"
 	"github.com/gin-gonic/gin"
 )

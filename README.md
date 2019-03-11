@@ -4,17 +4,17 @@
 小而美的博客平台，为未来而构建
 <br><br>
 <a title="Build Status" target="_blank" href="https://travis-ci.org/b3log/pipe"><img src="https://img.shields.io/travis/b3log/pipe.svg?style=flat-square"></a>
-<a title="Go Report Card" target="_blank" href="https://goreportcard.com/report/github.com/b3log/pipe"><img src="https://goreportcard.com/badge/github.com/b3log/pipe"></a>
+<a title="Go Report Card" target="_blank" href="https://goreportcard.com/report/pipe"><img src="https://goreportcard.com/badge/pipe"></a>
 <a title="Coverage Status" target="_blank" href="https://coveralls.io/repos/github/b3log/pipe/badge.svg?branch=master"><img src="https://img.shields.io/coveralls/github/b3log/pipe.svg?style=flat-square"></a>
-<a title="Code Size" target="_blank" href="https://github.com/b3log/pipe"><img src="https://img.shields.io/github/languages/code-size/b3log/pipe.svg?style=flat-square"></a>
-<a title="GPLv3" target="_blank" href="https://github.com/b3log/pipe/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-GPLv3-orange.svg?style=flat-square"></a>
-<a title="Releases" target="_blank" href="https://github.com/b3log/pipe/releases"><img src="https://img.shields.io/github/release/b3log/pipe.svg?style=flat-square"></a>
-<a title="Downloads" target="_blank" href="https://github.com/b3log/pipe/releases"><img src="https://img.shields.io/github/downloads/b3log/pipe/total.svg?style=flat-square"></a>
+<a title="Code Size" target="_blank" href="https://pipe"><img src="https://img.shields.io/github/languages/code-size/b3log/pipe.svg?style=flat-square"></a>
+<a title="GPLv3" target="_blank" href="https://pipe/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-GPLv3-orange.svg?style=flat-square"></a>
+<a title="Releases" target="_blank" href="https://pipe/releases"><img src="https://img.shields.io/github/release/b3log/pipe.svg?style=flat-square"></a>
+<a title="Downloads" target="_blank" href="https://pipe/releases"><img src="https://img.shields.io/github/downloads/b3log/pipe/total.svg?style=flat-square"></a>
 </p>
 
 ## 简介
 
-[Pipe](https://github.com/b3log/pipe) 是一款小而美的开源博客平台，专为程序员设计。Pipe 有着非常活跃的[社区](https://hacpai.com)，文章自动推送到社区后可以让很多人看到，产生丰富的交流互动。
+[Pipe](https://pipe) 是一款小而美的开源博客平台，专为程序员设计。Pipe 有着非常活跃的[社区](https://hacpai.com)，文章自动推送到社区后可以让很多人看到，产生丰富的交流互动。
 
 ## 案例
 
@@ -62,7 +62,7 @@
 
 ## 安装
 
-[下载](https://github.com/b3log/pipe/releases)最新的发布包解压，进入解压目录运行 pipe/pipe.exe 可执行文件即可。
+[下载](https://pipe/releases)最新的发布包解压，进入解压目录运行 pipe/pipe.exe 可执行文件即可。
 
 ## 文档
 
@@ -70,13 +70,13 @@
 * [用户指南](https://hacpai.com/article/1513761942333)
 * [开发指南](https://hacpai.com/article/1533965022328)
 * [主题开发指南](https://hacpai.com/article/1512550354920)
-* [贡献指南](https://github.com/b3log/pipe/blob/master/CONTRIBUTING.md)
+* [贡献指南](https://pipe/blob/master/CONTRIBUTING.md)
 * [Postman 测试集](https://www.getpostman.com/collections/900ddef64ad0e60479a6)
 
 ## 社区
 
 * [讨论区](https://hacpai.com/tag/pipe)
-* [报告问题](https://github.com/b3log/pipe/issues/new/choose)
+* [报告问题](https://pipe/issues/new/choose)
 
 ## 授权
 

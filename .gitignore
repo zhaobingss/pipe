@@ -15,7 +15,9 @@ pipe
 # Theme
 /theme/node_modules
 /theme/x/*/js/*.js.map
+/console/node_modules
 
 # IDE
 .idea/
 
+*.db
